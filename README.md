@@ -58,6 +58,6 @@ Dynamic State Management: Implemented React Hooks for effective state management
 Styling with Tailwind: Leveraged Tailwind CSS to streamline styling and achieve a modern aesthetic.
 
 
-Live demo 
-(link )
+[Live demo 
+(https://steadfastecommerce.netlify.app/ )]
    
